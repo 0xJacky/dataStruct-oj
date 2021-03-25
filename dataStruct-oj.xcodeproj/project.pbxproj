@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8519D01D260AFA2B005F7640 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8519D01C260AFA2B005F7640 /* main.cpp */; };
+		8519D037260B36B7005F7640 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8519D036260B36B7005F7640 /* main.cpp */; };
+		8519D052260B53DC005F7640 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8519D051260B53DC005F7640 /* main.cpp */; };
+		8519D06E260B55CF005F7640 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8519D06D260B55CF005F7640 /* main.cpp */; };
+		8519D08B260B58B0005F7640 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8519D08A260B58B0005F7640 /* main.cpp */; };
+		8519D0A9260B5CEF005F7640 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8519D0A8260B5CEF005F7640 /* main.cpp */; };
+		8519D118260B72EE005F7640 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8519D117260B72EE005F7640 /* main.cpp */; };
 		853ECF682600FF18004F6703 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 853ECF672600FF18004F6703 /* main.cpp */; };
 		853ECF892601010B004F6703 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 853ECF882601010B004F6703 /* main.cpp */; };
 		85A39E0E25F88B4D0071717D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 85A39E0D25F88B4D0071717D /* main.cpp */; };
@@ -24,6 +31,69 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
+		8519D018260AFA2B005F7640 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		8519D032260B36B7005F7640 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		8519D04D260B53DC005F7640 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		8519D069260B55CF005F7640 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		8519D086260B58B0005F7640 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		8519D0A4260B5CEF005F7640 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		8519D113260B72EE005F7640 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
 		853ECF632600FF18004F6703 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
@@ -153,6 +223,20 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		8519D01A260AFA2B005F7640 /* DS循环链表—约瑟夫环(Ver. I - A) */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS循环链表—约瑟夫环(Ver. I - A)"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8519D01C260AFA2B005F7640 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		8519D034260B36B7005F7640 /* DS单链表—删除重复元素 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS单链表—删除重复元素"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8519D036260B36B7005F7640 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		8519D04F260B53DC005F7640 /* DS堆栈--逆序输出 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS堆栈--逆序输出"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8519D051260B53DC005F7640 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		8519D06B260B55CF005F7640 /* DS堆栈--行编辑 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS堆栈--行编辑"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8519D06D260B55CF005F7640 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		8519D088260B58B0005F7640 /* DS堆栈--括号匹配 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS堆栈--括号匹配"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8519D08A260B58B0005F7640 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		8519D0A6260B5CEF005F7640 /* DS堆栈--迷宫求解 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS堆栈--迷宫求解"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8519D0A8260B5CEF005F7640 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		8519D115260B72EE005F7640 /* DS栈—波兰式，逆波兰式 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS栈—波兰式，逆波兰式"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8519D117260B72EE005F7640 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		853ECF652600FF18004F6703 /* DS单链表--结点交换 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS单链表--结点交换"; sourceTree = BUILT_PRODUCTS_DIR; };
 		853ECF672600FF18004F6703 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		853ECF862601010B004F6703 /* DS单链表--合并 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS单链表--合并"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -190,6 +274,55 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		8519D017260AFA2B005F7640 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8519D031260B36B7005F7640 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8519D04C260B53DC005F7640 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8519D068260B55CF005F7640 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8519D085260B58B0005F7640 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8519D0A3260B5CEF005F7640 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8519D112260B72EE005F7640 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		853ECF622600FF18004F6703 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -291,6 +424,62 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8519D01B260AFA2B005F7640 /* DS循环链表—约瑟夫环(Ver. I - A) */ = {
+			isa = PBXGroup;
+			children = (
+				8519D01C260AFA2B005F7640 /* main.cpp */,
+			);
+			path = "DS循环链表—约瑟夫环(Ver. I - A)";
+			sourceTree = "<group>";
+		};
+		8519D035260B36B7005F7640 /* DS单链表—删除重复元素 */ = {
+			isa = PBXGroup;
+			children = (
+				8519D036260B36B7005F7640 /* main.cpp */,
+			);
+			path = "DS单链表—删除重复元素";
+			sourceTree = "<group>";
+		};
+		8519D050260B53DC005F7640 /* DS堆栈--逆序输出 */ = {
+			isa = PBXGroup;
+			children = (
+				8519D051260B53DC005F7640 /* main.cpp */,
+			);
+			path = "DS堆栈--逆序输出";
+			sourceTree = "<group>";
+		};
+		8519D06C260B55CF005F7640 /* DS堆栈--行编辑 */ = {
+			isa = PBXGroup;
+			children = (
+				8519D06D260B55CF005F7640 /* main.cpp */,
+			);
+			path = "DS堆栈--行编辑";
+			sourceTree = "<group>";
+		};
+		8519D089260B58B0005F7640 /* DS堆栈--括号匹配 */ = {
+			isa = PBXGroup;
+			children = (
+				8519D08A260B58B0005F7640 /* main.cpp */,
+			);
+			path = "DS堆栈--括号匹配";
+			sourceTree = "<group>";
+		};
+		8519D0A7260B5CEF005F7640 /* DS堆栈--迷宫求解 */ = {
+			isa = PBXGroup;
+			children = (
+				8519D0A8260B5CEF005F7640 /* main.cpp */,
+			);
+			path = "DS堆栈--迷宫求解";
+			sourceTree = "<group>";
+		};
+		8519D116260B72EE005F7640 /* DS栈—波兰式，逆波兰式 */ = {
+			isa = PBXGroup;
+			children = (
+				8519D117260B72EE005F7640 /* main.cpp */,
+			);
+			path = "DS栈—波兰式，逆波兰式";
+			sourceTree = "<group>";
+		};
 		853ECF662600FF18004F6703 /* DS单链表--结点交换 */ = {
 			isa = PBXGroup;
 			children = (
@@ -314,6 +503,13 @@
 				85A39E5025F9079A0071717D /* 基础练习 */,
 				85A39E4F25F9078A0071717D /* DS顺序表 */,
 				85A39E0C25F88B4D0071717D /* dataStruct-oj */,
+				8519D01B260AFA2B005F7640 /* DS循环链表—约瑟夫环(Ver. I - A) */,
+				8519D035260B36B7005F7640 /* DS单链表—删除重复元素 */,
+				8519D050260B53DC005F7640 /* DS堆栈--逆序输出 */,
+				8519D06C260B55CF005F7640 /* DS堆栈--行编辑 */,
+				8519D089260B58B0005F7640 /* DS堆栈--括号匹配 */,
+				8519D0A7260B5CEF005F7640 /* DS堆栈--迷宫求解 */,
+				8519D116260B72EE005F7640 /* DS栈—波兰式，逆波兰式 */,
 				85A39E0B25F88B4D0071717D /* Products */,
 			);
 			sourceTree = "<group>";
@@ -335,6 +531,13 @@
 				853ECF862601010B004F6703 /* DS单链表--合并 */,
 				85FA6CAA260360F90097EA1C /* DS线性表-多项式相加 */,
 				85FA6CCF260371250097EA1C /* DS链表-学生宿舍管理 */,
+				8519D01A260AFA2B005F7640 /* DS循环链表—约瑟夫环(Ver. I - A) */,
+				8519D034260B36B7005F7640 /* DS单链表—删除重复元素 */,
+				8519D04F260B53DC005F7640 /* DS堆栈--逆序输出 */,
+				8519D06B260B55CF005F7640 /* DS堆栈--行编辑 */,
+				8519D088260B58B0005F7640 /* DS堆栈--括号匹配 */,
+				8519D0A6260B5CEF005F7640 /* DS堆栈--迷宫求解 */,
+				8519D115260B72EE005F7640 /* DS栈—波兰式，逆波兰式 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -502,6 +705,125 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		8519D019260AFA2B005F7640 /* DS循环链表—约瑟夫环(Ver. I - A) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8519D020260AFA2B005F7640 /* Build configuration list for PBXNativeTarget "DS循环链表—约瑟夫环(Ver. I - A)" */;
+			buildPhases = (
+				8519D016260AFA2B005F7640 /* Sources */,
+				8519D017260AFA2B005F7640 /* Frameworks */,
+				8519D018260AFA2B005F7640 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "DS循环链表—约瑟夫环(Ver. I - A)";
+			productName = "DS循环链表—约瑟夫环(Ver. I - A)";
+			productReference = 8519D01A260AFA2B005F7640 /* DS循环链表—约瑟夫环(Ver. I - A) */;
+			productType = "com.apple.product-type.tool";
+		};
+		8519D033260B36B7005F7640 /* DS单链表—删除重复元素 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8519D038260B36B7005F7640 /* Build configuration list for PBXNativeTarget "DS单链表—删除重复元素" */;
+			buildPhases = (
+				8519D030260B36B7005F7640 /* Sources */,
+				8519D031260B36B7005F7640 /* Frameworks */,
+				8519D032260B36B7005F7640 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "DS单链表—删除重复元素";
+			productName = "DS单链表—删除重复元素";
+			productReference = 8519D034260B36B7005F7640 /* DS单链表—删除重复元素 */;
+			productType = "com.apple.product-type.tool";
+		};
+		8519D04E260B53DC005F7640 /* DS堆栈--逆序输出 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8519D053260B53DC005F7640 /* Build configuration list for PBXNativeTarget "DS堆栈--逆序输出" */;
+			buildPhases = (
+				8519D04B260B53DC005F7640 /* Sources */,
+				8519D04C260B53DC005F7640 /* Frameworks */,
+				8519D04D260B53DC005F7640 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "DS堆栈--逆序输出";
+			productName = "DS堆栈--逆序输出";
+			productReference = 8519D04F260B53DC005F7640 /* DS堆栈--逆序输出 */;
+			productType = "com.apple.product-type.tool";
+		};
+		8519D06A260B55CF005F7640 /* DS堆栈--行编辑 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8519D06F260B55CF005F7640 /* Build configuration list for PBXNativeTarget "DS堆栈--行编辑" */;
+			buildPhases = (
+				8519D067260B55CF005F7640 /* Sources */,
+				8519D068260B55CF005F7640 /* Frameworks */,
+				8519D069260B55CF005F7640 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "DS堆栈--行编辑";
+			productName = "DS堆栈--行编辑";
+			productReference = 8519D06B260B55CF005F7640 /* DS堆栈--行编辑 */;
+			productType = "com.apple.product-type.tool";
+		};
+		8519D087260B58B0005F7640 /* DS堆栈--括号匹配 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8519D08C260B58B0005F7640 /* Build configuration list for PBXNativeTarget "DS堆栈--括号匹配" */;
+			buildPhases = (
+				8519D084260B58B0005F7640 /* Sources */,
+				8519D085260B58B0005F7640 /* Frameworks */,
+				8519D086260B58B0005F7640 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "DS堆栈--括号匹配";
+			productName = "DS堆栈--括号匹配";
+			productReference = 8519D088260B58B0005F7640 /* DS堆栈--括号匹配 */;
+			productType = "com.apple.product-type.tool";
+		};
+		8519D0A5260B5CEF005F7640 /* DS堆栈--迷宫求解 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8519D0AA260B5CEF005F7640 /* Build configuration list for PBXNativeTarget "DS堆栈--迷宫求解" */;
+			buildPhases = (
+				8519D0A2260B5CEF005F7640 /* Sources */,
+				8519D0A3260B5CEF005F7640 /* Frameworks */,
+				8519D0A4260B5CEF005F7640 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "DS堆栈--迷宫求解";
+			productName = "DS堆栈--迷宫求解";
+			productReference = 8519D0A6260B5CEF005F7640 /* DS堆栈--迷宫求解 */;
+			productType = "com.apple.product-type.tool";
+		};
+		8519D114260B72EE005F7640 /* DS栈—波兰式，逆波兰式 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8519D119260B72EE005F7640 /* Build configuration list for PBXNativeTarget "DS栈—波兰式，逆波兰式" */;
+			buildPhases = (
+				8519D111260B72EE005F7640 /* Sources */,
+				8519D112260B72EE005F7640 /* Frameworks */,
+				8519D113260B72EE005F7640 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "DS栈—波兰式，逆波兰式";
+			productName = "DS栈—波兰式，逆波兰式";
+			productReference = 8519D115260B72EE005F7640 /* DS栈—波兰式，逆波兰式 */;
+			productType = "com.apple.product-type.tool";
+		};
 		853ECF642600FF18004F6703 /* DS单链表--结点交换 */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 853ECF6B2600FF18004F6703 /* Build configuration list for PBXNativeTarget "DS单链表--结点交换" */;
@@ -748,6 +1070,27 @@
 			attributes = {
 				LastUpgradeCheck = 1240;
 				TargetAttributes = {
+					8519D019260AFA2B005F7640 = {
+						CreatedOnToolsVersion = 12.4;
+					};
+					8519D033260B36B7005F7640 = {
+						CreatedOnToolsVersion = 12.4;
+					};
+					8519D04E260B53DC005F7640 = {
+						CreatedOnToolsVersion = 12.4;
+					};
+					8519D06A260B55CF005F7640 = {
+						CreatedOnToolsVersion = 12.4;
+					};
+					8519D087260B58B0005F7640 = {
+						CreatedOnToolsVersion = 12.4;
+					};
+					8519D0A5260B5CEF005F7640 = {
+						CreatedOnToolsVersion = 12.4;
+					};
+					8519D114260B72EE005F7640 = {
+						CreatedOnToolsVersion = 12.4;
+					};
 					853ECF642600FF18004F6703 = {
 						CreatedOnToolsVersion = 12.4;
 					};
@@ -819,11 +1162,74 @@
 				853ECF852601010B004F6703 /* DS单链表--合并 */,
 				85FA6CA9260360F90097EA1C /* DS线性表-多项式相加 */,
 				85FA6CCE260371250097EA1C /* DS链表-学生宿舍管理 */,
+				8519D019260AFA2B005F7640 /* DS循环链表—约瑟夫环(Ver. I - A) */,
+				8519D033260B36B7005F7640 /* DS单链表—删除重复元素 */,
+				8519D04E260B53DC005F7640 /* DS堆栈--逆序输出 */,
+				8519D06A260B55CF005F7640 /* DS堆栈--行编辑 */,
+				8519D087260B58B0005F7640 /* DS堆栈--括号匹配 */,
+				8519D0A5260B5CEF005F7640 /* DS堆栈--迷宫求解 */,
+				8519D114260B72EE005F7640 /* DS栈—波兰式，逆波兰式 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
+		8519D016260AFA2B005F7640 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8519D01D260AFA2B005F7640 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8519D030260B36B7005F7640 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8519D037260B36B7005F7640 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8519D04B260B53DC005F7640 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8519D052260B53DC005F7640 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8519D067260B55CF005F7640 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8519D06E260B55CF005F7640 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8519D084260B58B0005F7640 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8519D08B260B58B0005F7640 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8519D0A2260B5CEF005F7640 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8519D0A9260B5CEF005F7640 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8519D111260B72EE005F7640 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8519D118260B72EE005F7640 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		853ECF612600FF18004F6703 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -939,6 +1345,118 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
+		8519D01E260AFA2B005F7640 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		8519D01F260AFA2B005F7640 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		8519D039260B36B7005F7640 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		8519D03A260B36B7005F7640 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		8519D054260B53DC005F7640 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		8519D055260B53DC005F7640 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		8519D070260B55CF005F7640 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		8519D071260B55CF005F7640 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		8519D08D260B58B0005F7640 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		8519D08E260B58B0005F7640 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		8519D0AB260B5CEF005F7640 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		8519D0AC260B5CEF005F7640 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		8519D11A260B72EE005F7640 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		8519D11B260B72EE005F7640 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 		853ECF692600FF18004F6703 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -1277,6 +1795,69 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		8519D020260AFA2B005F7640 /* Build configuration list for PBXNativeTarget "DS循环链表—约瑟夫环(Ver. I - A)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8519D01E260AFA2B005F7640 /* Debug */,
+				8519D01F260AFA2B005F7640 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8519D038260B36B7005F7640 /* Build configuration list for PBXNativeTarget "DS单链表—删除重复元素" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8519D039260B36B7005F7640 /* Debug */,
+				8519D03A260B36B7005F7640 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8519D053260B53DC005F7640 /* Build configuration list for PBXNativeTarget "DS堆栈--逆序输出" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8519D054260B53DC005F7640 /* Debug */,
+				8519D055260B53DC005F7640 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8519D06F260B55CF005F7640 /* Build configuration list for PBXNativeTarget "DS堆栈--行编辑" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8519D070260B55CF005F7640 /* Debug */,
+				8519D071260B55CF005F7640 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8519D08C260B58B0005F7640 /* Build configuration list for PBXNativeTarget "DS堆栈--括号匹配" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8519D08D260B58B0005F7640 /* Debug */,
+				8519D08E260B58B0005F7640 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8519D0AA260B5CEF005F7640 /* Build configuration list for PBXNativeTarget "DS堆栈--迷宫求解" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8519D0AB260B5CEF005F7640 /* Debug */,
+				8519D0AC260B5CEF005F7640 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8519D119260B72EE005F7640 /* Build configuration list for PBXNativeTarget "DS栈—波兰式，逆波兰式" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8519D11A260B72EE005F7640 /* Debug */,
+				8519D11B260B72EE005F7640 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		853ECF6B2600FF18004F6703 /* Build configuration list for PBXNativeTarget "DS单链表--结点交换" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
