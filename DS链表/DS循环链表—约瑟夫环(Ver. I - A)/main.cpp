@@ -11,15 +11,14 @@
  例如：N = 3，K = 2，S = 1。2号先出列，然后是1号，最后剩下的是3号。
  要求使用循环链表实现。
  输入
- 第一行输入t，表示有t个测试用例；
+ 测试数据有多组
 
- 第二行起，每行输入一组数据，包括3个数N、K、S，表示有N个人，从第S个人开始，数到K出列。(2 <= N <= 10^6，1 <= K <= 10,  1 <= S <= N)
+ 每组包括3个数N、K、S，表示有N个人，从第S个人开始，数到K出列。(1 <= N <= 10^6，1 <= K <= 10,  1 <= S <= N)
 
  输出
  出列的人的编号
 
  样例输入
- 2
  13 3 1
  3 2 1
  样例输出
@@ -67,41 +66,32 @@ public:
         last->next->no = n;
         last = last->next;
         // 循环链表
-        last->next = head->next;
+        last->next = head;
         len++;
-    }
-    
-    void display() {
-        ListNode *p;
-        p = head;
-        while (p != last) {
-            p = p->next;
-            cout << p->no << " ";
-        }
     }
 };
 
 int main() {
-    int t, n, k, s;
-    cin >> t;
-    while (t--) {
+    int n, k, s;
+    while (scanf("%d %d %d", &n, &k, &s) != EOF) {
         LinkList list;
-        cin >> n >> k >> s;
         for (int i = 1; i <= n; i++) {
             list.push(i);
         }
         
         auto p = list.head;
 
-        while (p != list.last && list.len > k) {
-            // 从 s 个人开始
-            for (int i = 0; i < s; i++) {
-                p = p->next;
-            }
-            
+        // 从 s 个人开始
+        for (int i = 0; i < s - 1; i++) {
+            p = p->next;
+        }
+        
+        while (list.len) {
+            if (p->next == list.head) p = p->next;
             // 数到 k 的前驱节点
-            for (int i = 1; i < k - 1; i++) {
+            for (int i = 0; i < k - 1; i++) {
                 p = p->next;
+                if (p->next == list.head) p = p->next;
             }
             // 待删除的节点
             auto pk = p->next;
@@ -110,7 +100,6 @@ int main() {
             p->next = pk->next;
             delete pk;
         }
-        list.display();
         cout << endl;
     }
     
