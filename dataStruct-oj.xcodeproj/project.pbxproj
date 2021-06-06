@@ -40,6 +40,10 @@
 		858AF5C82637D5C300174A60 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 858AF5C72637D5C300174A60 /* main.cpp */; };
 		858AF5FC2637DD9F00174A60 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 858AF5FB2637DD9F00174A60 /* main.cpp */; };
 		858AF6312637F09F00174A60 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 858AF6302637F09F00174A60 /* main.cpp */; };
+		85A3102D2653F48200974E69 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 85A3102C2653F48200974E69 /* main.cpp */; };
+		85A310382653FD6D00974E69 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 85A310372653FD6D00974E69 /* main.cpp */; };
+		85A310432654039900974E69 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 85A310422654039900974E69 /* main.cpp */; };
+		85A3104E2654D84A00974E69 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 85A3104D2654D84A00974E69 /* main.cpp */; };
 		85A39E0E25F88B4D0071717D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 85A39E0D25F88B4D0071717D /* main.cpp */; };
 		85A39E1C25F88B610071717D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 85A39E1B25F88B610071717D /* main.cpp */; };
 		85A39E2925F8EE060071717D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 85A39E2825F8EE060071717D /* main.cpp */; };
@@ -48,8 +52,17 @@
 		85A39E6125F908B10071717D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 85A39E6025F908B10071717D /* main.cpp */; };
 		85A39E7825F909200071717D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 85A39E7725F909200071717D /* main.cpp */; };
 		85A39E8A25F909430071717D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 85A39E8925F909430071717D /* main.cpp */; };
+		85AB1F5D2665256E00731364 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 85AB1F5C2665256E00731364 /* main.cpp */; };
+		85AB1F6826652ADB00731364 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 85AB1F6726652ADB00731364 /* main.cpp */; };
 		85CD9F462600F37B00A8EEDF /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 85CD9F452600F37B00A8EEDF /* main.cpp */; };
 		85CD9F632600F85900A8EEDF /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 85CD9F622600F85900A8EEDF /* main.cpp */; };
+		85E462DF265D3EB60055CCB3 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 85E462DE265D3EB60055CCB3 /* main.cpp */; };
+		85E462EA265D4C270055CCB3 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 85E462E9265D4C270055CCB3 /* main.cpp */; };
+		85E462F5265D4DAB0055CCB3 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 85E462F4265D4DAB0055CCB3 /* main.cpp */; };
+		85E46300265E8F020055CCB3 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 85E462FF265E8F020055CCB3 /* main.cpp */; };
+		85E4630B265EA5630055CCB3 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 85E4630A265EA5630055CCB3 /* main.cpp */; };
+		85E46316265EAC910055CCB3 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 85E46315265EAC910055CCB3 /* main.cpp */; };
+		85E46321265F5ED10055CCB3 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 85E46320265F5ED10055CCB3 /* main.cpp */; };
 		85E54E2C261DEF1A0083F541 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 85E54E2B261DEF1A0083F541 /* main.cpp */; };
 		85E54E51261DF2CC0083F541 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 85E54E50261DF2CC0083F541 /* main.cpp */; };
 		85E54EC8261DF60C0083F541 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 85E54EC7261DF60C0083F541 /* main.cpp */; };
@@ -360,6 +373,42 @@
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
+		85A310282653F48200974E69 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		85A310332653FD6D00974E69 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		85A3103E2654039900974E69 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		85A310492654D84A00974E69 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
 		85A39E0825F88B4D0071717D /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
@@ -432,6 +481,24 @@
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
+		85AB1F582665256E00731364 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		85AB1F6326652ADB00731364 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
 		85CD9F412600F37B00A8EEDF /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
@@ -442,6 +509,69 @@
 			runOnlyForDeploymentPostprocessing = 1;
 		};
 		85CD9F5E2600F85900A8EEDF /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		85E462DA265D3EB60055CCB3 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		85E462E5265D4C270055CCB3 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		85E462F0265D4DAB0055CCB3 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		85E462FB265E8F020055CCB3 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		85E46306265EA5630055CCB3 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		85E46311265EAC910055CCB3 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		85E4631C265F5ED10055CCB3 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -609,6 +739,14 @@
 		858AF5FB2637DD9F00174A60 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		858AF62E2637F09F00174A60 /* DS二叉树—二叉树结点的最大距离 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS二叉树—二叉树结点的最大距离"; sourceTree = BUILT_PRODUCTS_DIR; };
 		858AF6302637F09F00174A60 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		85A3102A2653F48200974E69 /* DS二叉排序树之创建和插入 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS二叉排序树之创建和插入"; sourceTree = BUILT_PRODUCTS_DIR; };
+		85A3102C2653F48200974E69 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		85A310352653FD6D00974E69 /* DS二叉排序树之查找 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS二叉排序树之查找"; sourceTree = BUILT_PRODUCTS_DIR; };
+		85A310372653FD6D00974E69 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		85A310402654039900974E69 /* DS二叉排序树之删除 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS二叉排序树之删除"; sourceTree = BUILT_PRODUCTS_DIR; };
+		85A310422654039900974E69 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		85A3104B2654D84A00974E69 /* DS查找—二叉树平衡因子 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS查找—二叉树平衡因子"; sourceTree = BUILT_PRODUCTS_DIR; };
+		85A3104D2654D84A00974E69 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		85A39E0A25F88B4D0071717D /* dataStruct-oj */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "dataStruct-oj"; sourceTree = BUILT_PRODUCTS_DIR; };
 		85A39E0D25F88B4D0071717D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		85A39E1925F88B610071717D /* DS顺序表--类实现 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS顺序表--类实现"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -631,10 +769,28 @@
 		85A39E7725F909200071717D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		85A39E8725F909430071717D /* 矩阵左转 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "矩阵左转"; sourceTree = BUILT_PRODUCTS_DIR; };
 		85A39E8925F909430071717D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		85AB1F5A2665256E00731364 /* DS哈希查找--Trie树 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS哈希查找--Trie树"; sourceTree = BUILT_PRODUCTS_DIR; };
+		85AB1F5C2665256E00731364 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		85AB1F6526652ADB00731364 /* DS哈希查找—二次探测再散列 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS哈希查找—二次探测再散列"; sourceTree = BUILT_PRODUCTS_DIR; };
+		85AB1F6726652ADB00731364 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		85CD9F432600F37B00A8EEDF /* DS链表—学生宿舍管理时间限制 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS链表—学生宿舍管理时间限制"; sourceTree = BUILT_PRODUCTS_DIR; };
 		85CD9F452600F37B00A8EEDF /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		85CD9F602600F85900A8EEDF /* DS单链表--类实现 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS单链表--类实现"; sourceTree = BUILT_PRODUCTS_DIR; };
 		85CD9F622600F85900A8EEDF /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		85E462DC265D3EB60055CCB3 /* DS哈希查找--链地址法 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS哈希查找--链地址法"; sourceTree = BUILT_PRODUCTS_DIR; };
+		85E462DE265D3EB60055CCB3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		85E462E7265D4C270055CCB3 /* DS哈希查找与增补 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS哈希查找与增补"; sourceTree = BUILT_PRODUCTS_DIR; };
+		85E462E9265D4C270055CCB3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		85E462F2265D4DAB0055CCB3 /* DS哈希查找—线性探测再散列 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS哈希查找—线性探测再散列"; sourceTree = BUILT_PRODUCTS_DIR; };
+		85E462F4265D4DAB0055CCB3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		85E462FD265E8F020055CCB3 /* DS二叉平衡树构建 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS二叉平衡树构建"; sourceTree = BUILT_PRODUCTS_DIR; };
+		85E462FF265E8F020055CCB3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		85E46308265EA5630055CCB3 /* 二叉平衡树练习 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "二叉平衡树练习"; sourceTree = BUILT_PRODUCTS_DIR; };
+		85E4630A265EA5630055CCB3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		85E46313265EAC910055CCB3 /* DS二叉树--二叉搜索树模拟 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS二叉树--二叉搜索树模拟"; sourceTree = BUILT_PRODUCTS_DIR; };
+		85E46315265EAC910055CCB3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		85E4631E265F5ED10055CCB3 /* 平衡树上的第k小 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "平衡树上的第k小"; sourceTree = BUILT_PRODUCTS_DIR; };
+		85E46320265F5ED10055CCB3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		85E54E29261DEF1A0083F541 /* DS队列----银行简单模拟 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS队列----银行简单模拟"; sourceTree = BUILT_PRODUCTS_DIR; };
 		85E54E2B261DEF1A0083F541 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		85E54E4E261DF2CC0083F541 /* DS栈—排队游戏 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS栈—排队游戏"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -889,6 +1045,34 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		85A310272653F48200974E69 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		85A310322653FD6D00974E69 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		85A3103D2654039900974E69 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		85A310482654D84A00974E69 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		85A39E0725F88B4D0071717D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -945,6 +1129,20 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		85AB1F572665256E00731364 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		85AB1F6226652ADB00731364 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		85CD9F402600F37B00A8EEDF /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -953,6 +1151,55 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		85CD9F5D2600F85900A8EEDF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		85E462D9265D3EB60055CCB3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		85E462E4265D4C270055CCB3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		85E462EF265D4DAB0055CCB3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		85E462FA265E8F020055CCB3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		85E46305265EA5630055CCB3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		85E46310265EAC910055CCB3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		85E4631B265F5ED10055CCB3 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -1339,9 +1586,53 @@
 			path = "DS二叉树—二叉树结点的最大距离";
 			sourceTree = "<group>";
 		};
+		85A310252653F45E00974E69 /* DS查找 */ = {
+			isa = PBXGroup;
+			children = (
+				855590B3264C00C80097F126 /* DS静态查找之顺序查找 */,
+				855590BE264C032C0097F126 /* DS静态查找之折半查找 */,
+				855590C9264C07300097F126 /* DS静态查找之顺序索引查找 */,
+				855590D4264C105E0097F126 /* DS查找——折半查找求平方根 */,
+			);
+			path = "DS查找";
+			sourceTree = "<group>";
+		};
+		85A3102B2653F48200974E69 /* DS二叉排序树之创建和插入 */ = {
+			isa = PBXGroup;
+			children = (
+				85A3102C2653F48200974E69 /* main.cpp */,
+			);
+			path = "DS二叉排序树之创建和插入";
+			sourceTree = "<group>";
+		};
+		85A310362653FD6D00974E69 /* DS二叉排序树之查找 */ = {
+			isa = PBXGroup;
+			children = (
+				85A310372653FD6D00974E69 /* main.cpp */,
+			);
+			path = "DS二叉排序树之查找";
+			sourceTree = "<group>";
+		};
+		85A310412654039900974E69 /* DS二叉排序树之删除 */ = {
+			isa = PBXGroup;
+			children = (
+				85A310422654039900974E69 /* main.cpp */,
+			);
+			path = "DS二叉排序树之删除";
+			sourceTree = "<group>";
+		};
+		85A3104C2654D84A00974E69 /* DS查找—二叉树平衡因子 */ = {
+			isa = PBXGroup;
+			children = (
+				85A3104D2654D84A00974E69 /* main.cpp */,
+			);
+			path = "DS查找—二叉树平衡因子";
+			sourceTree = "<group>";
+		};
 		85A39E0125F88B4D0071717D = {
 			isa = PBXGroup;
 			children = (
+				85A310252653F45E00974E69 /* DS查找 */,
 				85229BF62637AFBD00C7EFE3 /* DS串 */,
 				85229BF52637AFAB00C7EFE3 /* DS二叉树 */,
 				85E54E0B261DEE890083F541 /* DS队列 */,
@@ -1355,10 +1646,19 @@
 				855590922648DD5B0097F126 /* DS二叉树—二叉树镜面反转 */,
 				8555909D2648F0A60097F126 /* DS树--二叉树之最大路径 */,
 				855590A82648FD030097F126 /* DS二叉树-- 二叉树的中后序遍历构建及求叶子 */,
-				855590B3264C00C80097F126 /* DS静态查找之顺序查找 */,
-				855590BE264C032C0097F126 /* DS静态查找之折半查找 */,
-				855590C9264C07300097F126 /* DS静态查找之顺序索引查找 */,
-				855590D4264C105E0097F126 /* DS查找——折半查找求平方根 */,
+				85A3102B2653F48200974E69 /* DS二叉排序树之创建和插入 */,
+				85A310362653FD6D00974E69 /* DS二叉排序树之查找 */,
+				85A310412654039900974E69 /* DS二叉排序树之删除 */,
+				85A3104C2654D84A00974E69 /* DS查找—二叉树平衡因子 */,
+				85E462DD265D3EB60055CCB3 /* DS哈希查找--链地址法 */,
+				85E462E8265D4C270055CCB3 /* DS哈希查找与增补 */,
+				85E462F3265D4DAB0055CCB3 /* DS哈希查找—线性探测再散列 */,
+				85E462FE265E8F020055CCB3 /* DS二叉平衡树构建 */,
+				85E46309265EA5630055CCB3 /* 二叉平衡树练习 */,
+				85E46314265EAC910055CCB3 /* DS二叉树--二叉搜索树模拟 */,
+				85E4631F265F5ED10055CCB3 /* 平衡树上的第k小 */,
+				85AB1F5B2665256E00731364 /* DS哈希查找--Trie树 */,
+				85AB1F6626652ADB00731364 /* DS哈希查找—二次探测再散列 */,
 				85A39E0B25F88B4D0071717D /* Products */,
 			);
 			sourceTree = "<group>";
@@ -1419,6 +1719,19 @@
 				855590BD264C032C0097F126 /* DS静态查找之折半查找 */,
 				855590C8264C07300097F126 /* DS静态查找之顺序索引查找 */,
 				855590D3264C105E0097F126 /* DS查找——折半查找求平方根 */,
+				85A3102A2653F48200974E69 /* DS二叉排序树之创建和插入 */,
+				85A310352653FD6D00974E69 /* DS二叉排序树之查找 */,
+				85A310402654039900974E69 /* DS二叉排序树之删除 */,
+				85A3104B2654D84A00974E69 /* DS查找—二叉树平衡因子 */,
+				85E462DC265D3EB60055CCB3 /* DS哈希查找--链地址法 */,
+				85E462E7265D4C270055CCB3 /* DS哈希查找与增补 */,
+				85E462F2265D4DAB0055CCB3 /* DS哈希查找—线性探测再散列 */,
+				85E462FD265E8F020055CCB3 /* DS二叉平衡树构建 */,
+				85E46308265EA5630055CCB3 /* 二叉平衡树练习 */,
+				85E46313265EAC910055CCB3 /* DS二叉树--二叉搜索树模拟 */,
+				85E4631E265F5ED10055CCB3 /* 平衡树上的第k小 */,
+				85AB1F5A2665256E00731364 /* DS哈希查找--Trie树 */,
+				85AB1F6526652ADB00731364 /* DS哈希查找—二次探测再散列 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -1539,6 +1852,22 @@
 			path = "矩阵左转";
 			sourceTree = "<group>";
 		};
+		85AB1F5B2665256E00731364 /* DS哈希查找--Trie树 */ = {
+			isa = PBXGroup;
+			children = (
+				85AB1F5C2665256E00731364 /* main.cpp */,
+			);
+			path = "DS哈希查找--Trie树";
+			sourceTree = "<group>";
+		};
+		85AB1F6626652ADB00731364 /* DS哈希查找—二次探测再散列 */ = {
+			isa = PBXGroup;
+			children = (
+				85AB1F6726652ADB00731364 /* main.cpp */,
+			);
+			path = "DS哈希查找—二次探测再散列";
+			sourceTree = "<group>";
+		};
 		85CD9F3E2600F31100A8EEDF /* DS链表 */ = {
 			isa = PBXGroup;
 			children = (
@@ -1568,6 +1897,62 @@
 				85CD9F622600F85900A8EEDF /* main.cpp */,
 			);
 			path = "DS单链表--类实现";
+			sourceTree = "<group>";
+		};
+		85E462DD265D3EB60055CCB3 /* DS哈希查找--链地址法 */ = {
+			isa = PBXGroup;
+			children = (
+				85E462DE265D3EB60055CCB3 /* main.cpp */,
+			);
+			path = "DS哈希查找--链地址法";
+			sourceTree = "<group>";
+		};
+		85E462E8265D4C270055CCB3 /* DS哈希查找与增补 */ = {
+			isa = PBXGroup;
+			children = (
+				85E462E9265D4C270055CCB3 /* main.cpp */,
+			);
+			path = "DS哈希查找与增补";
+			sourceTree = "<group>";
+		};
+		85E462F3265D4DAB0055CCB3 /* DS哈希查找—线性探测再散列 */ = {
+			isa = PBXGroup;
+			children = (
+				85E462F4265D4DAB0055CCB3 /* main.cpp */,
+			);
+			path = "DS哈希查找—线性探测再散列";
+			sourceTree = "<group>";
+		};
+		85E462FE265E8F020055CCB3 /* DS二叉平衡树构建 */ = {
+			isa = PBXGroup;
+			children = (
+				85E462FF265E8F020055CCB3 /* main.cpp */,
+			);
+			path = "DS二叉平衡树构建";
+			sourceTree = "<group>";
+		};
+		85E46309265EA5630055CCB3 /* 二叉平衡树练习 */ = {
+			isa = PBXGroup;
+			children = (
+				85E4630A265EA5630055CCB3 /* main.cpp */,
+			);
+			path = "二叉平衡树练习";
+			sourceTree = "<group>";
+		};
+		85E46314265EAC910055CCB3 /* DS二叉树--二叉搜索树模拟 */ = {
+			isa = PBXGroup;
+			children = (
+				85E46315265EAC910055CCB3 /* main.cpp */,
+			);
+			path = "DS二叉树--二叉搜索树模拟";
+			sourceTree = "<group>";
+		};
+		85E4631F265F5ED10055CCB3 /* 平衡树上的第k小 */ = {
+			isa = PBXGroup;
+			children = (
+				85E46320265F5ED10055CCB3 /* main.cpp */,
+			);
+			path = "平衡树上的第k小";
 			sourceTree = "<group>";
 		};
 		85E54E0B261DEE890083F541 /* DS队列 */ = {
@@ -2226,6 +2611,74 @@
 			productReference = 858AF62E2637F09F00174A60 /* DS二叉树—二叉树结点的最大距离 */;
 			productType = "com.apple.product-type.tool";
 		};
+		85A310292653F48200974E69 /* DS二叉排序树之创建和插入 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 85A3102E2653F48200974E69 /* Build configuration list for PBXNativeTarget "DS二叉排序树之创建和插入" */;
+			buildPhases = (
+				85A310262653F48200974E69 /* Sources */,
+				85A310272653F48200974E69 /* Frameworks */,
+				85A310282653F48200974E69 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "DS二叉排序树之创建和插入";
+			productName = "DS二叉排序树之创建和插入";
+			productReference = 85A3102A2653F48200974E69 /* DS二叉排序树之创建和插入 */;
+			productType = "com.apple.product-type.tool";
+		};
+		85A310342653FD6D00974E69 /* DS二叉排序树之查找 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 85A310392653FD6D00974E69 /* Build configuration list for PBXNativeTarget "DS二叉排序树之查找" */;
+			buildPhases = (
+				85A310312653FD6D00974E69 /* Sources */,
+				85A310322653FD6D00974E69 /* Frameworks */,
+				85A310332653FD6D00974E69 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "DS二叉排序树之查找";
+			productName = "DS二叉排序树之查找";
+			productReference = 85A310352653FD6D00974E69 /* DS二叉排序树之查找 */;
+			productType = "com.apple.product-type.tool";
+		};
+		85A3103F2654039900974E69 /* DS二叉排序树之删除 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 85A310442654039900974E69 /* Build configuration list for PBXNativeTarget "DS二叉排序树之删除" */;
+			buildPhases = (
+				85A3103C2654039900974E69 /* Sources */,
+				85A3103D2654039900974E69 /* Frameworks */,
+				85A3103E2654039900974E69 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "DS二叉排序树之删除";
+			productName = "DS二叉排序树之删除";
+			productReference = 85A310402654039900974E69 /* DS二叉排序树之删除 */;
+			productType = "com.apple.product-type.tool";
+		};
+		85A3104A2654D84A00974E69 /* DS查找—二叉树平衡因子 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 85A3104F2654D84A00974E69 /* Build configuration list for PBXNativeTarget "DS查找—二叉树平衡因子" */;
+			buildPhases = (
+				85A310472654D84A00974E69 /* Sources */,
+				85A310482654D84A00974E69 /* Frameworks */,
+				85A310492654D84A00974E69 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "DS查找—二叉树平衡因子";
+			productName = "DS查找—二叉树平衡因子";
+			productReference = 85A3104B2654D84A00974E69 /* DS查找—二叉树平衡因子 */;
+			productType = "com.apple.product-type.tool";
+		};
 		85A39E0925F88B4D0071717D /* dataStruct-oj */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 85A39E1125F88B4D0071717D /* Build configuration list for PBXNativeTarget "dataStruct-oj" */;
@@ -2362,6 +2815,40 @@
 			productReference = 85A39E8725F909430071717D /* 矩阵左转 */;
 			productType = "com.apple.product-type.tool";
 		};
+		85AB1F592665256E00731364 /* DS哈希查找--Trie树 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 85AB1F602665256E00731364 /* Build configuration list for PBXNativeTarget "DS哈希查找--Trie树" */;
+			buildPhases = (
+				85AB1F562665256E00731364 /* Sources */,
+				85AB1F572665256E00731364 /* Frameworks */,
+				85AB1F582665256E00731364 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "DS哈希查找--Trie树";
+			productName = "DS哈希查找--Trie树";
+			productReference = 85AB1F5A2665256E00731364 /* DS哈希查找--Trie树 */;
+			productType = "com.apple.product-type.tool";
+		};
+		85AB1F6426652ADB00731364 /* DS哈希查找—二次探测再散列 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 85AB1F6926652ADB00731364 /* Build configuration list for PBXNativeTarget "DS哈希查找—二次探测再散列" */;
+			buildPhases = (
+				85AB1F6126652ADB00731364 /* Sources */,
+				85AB1F6226652ADB00731364 /* Frameworks */,
+				85AB1F6326652ADB00731364 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "DS哈希查找—二次探测再散列";
+			productName = "DS哈希查找—二次探测再散列";
+			productReference = 85AB1F6526652ADB00731364 /* DS哈希查找—二次探测再散列 */;
+			productType = "com.apple.product-type.tool";
+		};
 		85CD9F422600F37B00A8EEDF /* DS链表—学生宿舍管理时间限制 */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 85CD9F472600F37B00A8EEDF /* Build configuration list for PBXNativeTarget "DS链表—学生宿舍管理时间限制" */;
@@ -2394,6 +2881,125 @@
 			name = "DS单链表--类实现";
 			productName = "DS单链表--类实现";
 			productReference = 85CD9F602600F85900A8EEDF /* DS单链表--类实现 */;
+			productType = "com.apple.product-type.tool";
+		};
+		85E462DB265D3EB60055CCB3 /* DS哈希查找--链地址法 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 85E462E2265D3EB60055CCB3 /* Build configuration list for PBXNativeTarget "DS哈希查找--链地址法" */;
+			buildPhases = (
+				85E462D8265D3EB60055CCB3 /* Sources */,
+				85E462D9265D3EB60055CCB3 /* Frameworks */,
+				85E462DA265D3EB60055CCB3 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "DS哈希查找--链地址法";
+			productName = "DS哈希查找--链地址法";
+			productReference = 85E462DC265D3EB60055CCB3 /* DS哈希查找--链地址法 */;
+			productType = "com.apple.product-type.tool";
+		};
+		85E462E6265D4C270055CCB3 /* DS哈希查找与增补 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 85E462EB265D4C270055CCB3 /* Build configuration list for PBXNativeTarget "DS哈希查找与增补" */;
+			buildPhases = (
+				85E462E3265D4C270055CCB3 /* Sources */,
+				85E462E4265D4C270055CCB3 /* Frameworks */,
+				85E462E5265D4C270055CCB3 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "DS哈希查找与增补";
+			productName = "DS哈希查找与增补";
+			productReference = 85E462E7265D4C270055CCB3 /* DS哈希查找与增补 */;
+			productType = "com.apple.product-type.tool";
+		};
+		85E462F1265D4DAB0055CCB3 /* DS哈希查找—线性探测再散列 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 85E462F6265D4DAB0055CCB3 /* Build configuration list for PBXNativeTarget "DS哈希查找—线性探测再散列" */;
+			buildPhases = (
+				85E462EE265D4DAB0055CCB3 /* Sources */,
+				85E462EF265D4DAB0055CCB3 /* Frameworks */,
+				85E462F0265D4DAB0055CCB3 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "DS哈希查找—线性探测再散列";
+			productName = "DS哈希查找—线性探测再散列";
+			productReference = 85E462F2265D4DAB0055CCB3 /* DS哈希查找—线性探测再散列 */;
+			productType = "com.apple.product-type.tool";
+		};
+		85E462FC265E8F020055CCB3 /* DS二叉平衡树构建 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 85E46303265E8F020055CCB3 /* Build configuration list for PBXNativeTarget "DS二叉平衡树构建" */;
+			buildPhases = (
+				85E462F9265E8F020055CCB3 /* Sources */,
+				85E462FA265E8F020055CCB3 /* Frameworks */,
+				85E462FB265E8F020055CCB3 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "DS二叉平衡树构建";
+			productName = "DS二叉平衡树构建";
+			productReference = 85E462FD265E8F020055CCB3 /* DS二叉平衡树构建 */;
+			productType = "com.apple.product-type.tool";
+		};
+		85E46307265EA5630055CCB3 /* 二叉平衡树练习 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 85E4630C265EA5630055CCB3 /* Build configuration list for PBXNativeTarget "二叉平衡树练习" */;
+			buildPhases = (
+				85E46304265EA5630055CCB3 /* Sources */,
+				85E46305265EA5630055CCB3 /* Frameworks */,
+				85E46306265EA5630055CCB3 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "二叉平衡树练习";
+			productName = "二叉平衡树练习";
+			productReference = 85E46308265EA5630055CCB3 /* 二叉平衡树练习 */;
+			productType = "com.apple.product-type.tool";
+		};
+		85E46312265EAC910055CCB3 /* DS二叉树--二叉搜索树模拟 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 85E46317265EAC910055CCB3 /* Build configuration list for PBXNativeTarget "DS二叉树--二叉搜索树模拟" */;
+			buildPhases = (
+				85E4630F265EAC910055CCB3 /* Sources */,
+				85E46310265EAC910055CCB3 /* Frameworks */,
+				85E46311265EAC910055CCB3 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "DS二叉树--二叉搜索树模拟";
+			productName = "DS二叉树--二叉搜索树模拟";
+			productReference = 85E46313265EAC910055CCB3 /* DS二叉树--二叉搜索树模拟 */;
+			productType = "com.apple.product-type.tool";
+		};
+		85E4631D265F5ED10055CCB3 /* 平衡树上的第k小 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 85E46322265F5ED10055CCB3 /* Build configuration list for PBXNativeTarget "平衡树上的第k小" */;
+			buildPhases = (
+				85E4631A265F5ED10055CCB3 /* Sources */,
+				85E4631B265F5ED10055CCB3 /* Frameworks */,
+				85E4631C265F5ED10055CCB3 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "平衡树上的第k小";
+			productName = "平衡树上的第k小";
+			productReference = 85E4631E265F5ED10055CCB3 /* 平衡树上的第k小 */;
 			productType = "com.apple.product-type.tool";
 		};
 		85E54E28261DEF1A0083F541 /* DS队列----银行简单模拟 */ = {
@@ -2673,6 +3279,18 @@
 					858AF62D2637F09F00174A60 = {
 						CreatedOnToolsVersion = 12.4;
 					};
+					85A310292653F48200974E69 = {
+						CreatedOnToolsVersion = 12.5;
+					};
+					85A310342653FD6D00974E69 = {
+						CreatedOnToolsVersion = 12.5;
+					};
+					85A3103F2654039900974E69 = {
+						CreatedOnToolsVersion = 12.5;
+					};
+					85A3104A2654D84A00974E69 = {
+						CreatedOnToolsVersion = 12.5;
+					};
 					85A39E0925F88B4D0071717D = {
 						CreatedOnToolsVersion = 12.4;
 					};
@@ -2697,11 +3315,38 @@
 					85A39E8625F909430071717D = {
 						CreatedOnToolsVersion = 12.4;
 					};
+					85AB1F592665256E00731364 = {
+						CreatedOnToolsVersion = 12.5;
+					};
+					85AB1F6426652ADB00731364 = {
+						CreatedOnToolsVersion = 12.5;
+					};
 					85CD9F422600F37B00A8EEDF = {
 						CreatedOnToolsVersion = 12.4;
 					};
 					85CD9F5F2600F85900A8EEDF = {
 						CreatedOnToolsVersion = 12.4;
+					};
+					85E462DB265D3EB60055CCB3 = {
+						CreatedOnToolsVersion = 12.5;
+					};
+					85E462E6265D4C270055CCB3 = {
+						CreatedOnToolsVersion = 12.5;
+					};
+					85E462F1265D4DAB0055CCB3 = {
+						CreatedOnToolsVersion = 12.5;
+					};
+					85E462FC265E8F020055CCB3 = {
+						CreatedOnToolsVersion = 12.5;
+					};
+					85E46307265EA5630055CCB3 = {
+						CreatedOnToolsVersion = 12.5;
+					};
+					85E46312265EAC910055CCB3 = {
+						CreatedOnToolsVersion = 12.5;
+					};
+					85E4631D265F5ED10055CCB3 = {
+						CreatedOnToolsVersion = 12.5;
 					};
 					85E54E28261DEF1A0083F541 = {
 						CreatedOnToolsVersion = 12.4;
@@ -2801,6 +3446,19 @@
 				855590BC264C032C0097F126 /* DS静态查找之折半查找 */,
 				855590C7264C07300097F126 /* DS静态查找之顺序索引查找 */,
 				855590D2264C105E0097F126 /* DS查找——折半查找求平方根 */,
+				85A310292653F48200974E69 /* DS二叉排序树之创建和插入 */,
+				85A310342653FD6D00974E69 /* DS二叉排序树之查找 */,
+				85A3103F2654039900974E69 /* DS二叉排序树之删除 */,
+				85A3104A2654D84A00974E69 /* DS查找—二叉树平衡因子 */,
+				85E462DB265D3EB60055CCB3 /* DS哈希查找--链地址法 */,
+				85E462E6265D4C270055CCB3 /* DS哈希查找与增补 */,
+				85E462F1265D4DAB0055CCB3 /* DS哈希查找—线性探测再散列 */,
+				85E462FC265E8F020055CCB3 /* DS二叉平衡树构建 */,
+				85E46307265EA5630055CCB3 /* 二叉平衡树练习 */,
+				85E46312265EAC910055CCB3 /* DS二叉树--二叉搜索树模拟 */,
+				85E4631D265F5ED10055CCB3 /* 平衡树上的第k小 */,
+				85AB1F592665256E00731364 /* DS哈希查找--Trie树 */,
+				85AB1F6426652ADB00731364 /* DS哈希查找—二次探测再散列 */,
 			);
 		};
 /* End PBXProject section */
@@ -3070,6 +3728,38 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		85A310262653F48200974E69 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				85A3102D2653F48200974E69 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		85A310312653FD6D00974E69 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				85A310382653FD6D00974E69 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		85A3103C2654039900974E69 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				85A310432654039900974E69 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		85A310472654D84A00974E69 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				85A3104E2654D84A00974E69 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		85A39E0625F88B4D0071717D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -3134,6 +3824,22 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		85AB1F562665256E00731364 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				85AB1F5D2665256E00731364 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		85AB1F6126652ADB00731364 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				85AB1F6826652ADB00731364 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		85CD9F3F2600F37B00A8EEDF /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -3147,6 +3853,62 @@
 			buildActionMask = 2147483647;
 			files = (
 				85CD9F632600F85900A8EEDF /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		85E462D8265D3EB60055CCB3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				85E462DF265D3EB60055CCB3 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		85E462E3265D4C270055CCB3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				85E462EA265D4C270055CCB3 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		85E462EE265D4DAB0055CCB3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				85E462F5265D4DAB0055CCB3 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		85E462F9265E8F020055CCB3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				85E46300265E8F020055CCB3 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		85E46304265EA5630055CCB3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				85E4630B265EA5630055CCB3 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		85E4630F265EAC910055CCB3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				85E46316265EAC910055CCB3 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		85E4631A265F5ED10055CCB3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				85E46321265F5ED10055CCB3 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3827,6 +4589,78 @@
 			};
 			name = Release;
 		};
+		85A3102F2653F48200974E69 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		85A310302653F48200974E69 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		85A3103A2653FD6D00974E69 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		85A3103B2653FD6D00974E69 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		85A310452654039900974E69 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		85A310462654039900974E69 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		85A310502654D84A00974E69 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		85A310512654D84A00974E69 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 		85A39E0F25F88B4D0071717D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -4082,6 +4916,42 @@
 			};
 			name = Release;
 		};
+		85AB1F5E2665256E00731364 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		85AB1F5F2665256E00731364 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		85AB1F6A26652ADB00731364 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		85AB1F6B26652ADB00731364 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 		85CD9F482600F37B00A8EEDF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -4114,6 +4984,132 @@
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		85E462E0265D3EB60055CCB3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		85E462E1265D3EB60055CCB3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		85E462EC265D4C270055CCB3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		85E462ED265D4C270055CCB3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		85E462F7265D4DAB0055CCB3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		85E462F8265D4DAB0055CCB3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		85E46301265E8F020055CCB3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		85E46302265E8F020055CCB3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		85E4630D265EA5630055CCB3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		85E4630E265EA5630055CCB3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		85E46318265EAC910055CCB3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		85E46319265EAC910055CCB3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		85E46323265F5ED10055CCB3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		85E46324265F5ED10055CCB3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -4598,6 +5594,42 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+		85A3102E2653F48200974E69 /* Build configuration list for PBXNativeTarget "DS二叉排序树之创建和插入" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				85A3102F2653F48200974E69 /* Debug */,
+				85A310302653F48200974E69 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		85A310392653FD6D00974E69 /* Build configuration list for PBXNativeTarget "DS二叉排序树之查找" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				85A3103A2653FD6D00974E69 /* Debug */,
+				85A3103B2653FD6D00974E69 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		85A310442654039900974E69 /* Build configuration list for PBXNativeTarget "DS二叉排序树之删除" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				85A310452654039900974E69 /* Debug */,
+				85A310462654039900974E69 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		85A3104F2654D84A00974E69 /* Build configuration list for PBXNativeTarget "DS查找—二叉树平衡因子" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				85A310502654D84A00974E69 /* Debug */,
+				85A310512654D84A00974E69 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		85A39E0525F88B4D0071717D /* Build configuration list for PBXProject "dataStruct-oj" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -4679,6 +5711,24 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+		85AB1F602665256E00731364 /* Build configuration list for PBXNativeTarget "DS哈希查找--Trie树" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				85AB1F5E2665256E00731364 /* Debug */,
+				85AB1F5F2665256E00731364 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		85AB1F6926652ADB00731364 /* Build configuration list for PBXNativeTarget "DS哈希查找—二次探测再散列" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				85AB1F6A26652ADB00731364 /* Debug */,
+				85AB1F6B26652ADB00731364 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		85CD9F472600F37B00A8EEDF /* Build configuration list for PBXNativeTarget "DS链表—学生宿舍管理时间限制" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -4693,6 +5743,69 @@
 			buildConfigurations = (
 				85CD9F652600F85900A8EEDF /* Debug */,
 				85CD9F662600F85900A8EEDF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		85E462E2265D3EB60055CCB3 /* Build configuration list for PBXNativeTarget "DS哈希查找--链地址法" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				85E462E0265D3EB60055CCB3 /* Debug */,
+				85E462E1265D3EB60055CCB3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		85E462EB265D4C270055CCB3 /* Build configuration list for PBXNativeTarget "DS哈希查找与增补" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				85E462EC265D4C270055CCB3 /* Debug */,
+				85E462ED265D4C270055CCB3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		85E462F6265D4DAB0055CCB3 /* Build configuration list for PBXNativeTarget "DS哈希查找—线性探测再散列" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				85E462F7265D4DAB0055CCB3 /* Debug */,
+				85E462F8265D4DAB0055CCB3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		85E46303265E8F020055CCB3 /* Build configuration list for PBXNativeTarget "DS二叉平衡树构建" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				85E46301265E8F020055CCB3 /* Debug */,
+				85E46302265E8F020055CCB3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		85E4630C265EA5630055CCB3 /* Build configuration list for PBXNativeTarget "二叉平衡树练习" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				85E4630D265EA5630055CCB3 /* Debug */,
+				85E4630E265EA5630055CCB3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		85E46317265EAC910055CCB3 /* Build configuration list for PBXNativeTarget "DS二叉树--二叉搜索树模拟" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				85E46318265EAC910055CCB3 /* Debug */,
+				85E46319265EAC910055CCB3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		85E46322265F5ED10055CCB3 /* Build configuration list for PBXNativeTarget "平衡树上的第k小" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				85E46323265F5ED10055CCB3 /* Debug */,
+				85E46324265F5ED10055CCB3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
