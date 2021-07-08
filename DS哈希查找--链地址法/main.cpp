@@ -84,8 +84,6 @@ int main() {
         }
         
         cin >> n;
-        cout << "++++++++++++" << endl;
-        cout << "------------" << endl;
         while (n--) {
             cin >> t;
             table.search(t);

@@ -21,7 +21,7 @@ class BiTree {
     long int size = 0;
     stringstream pre;
     stringstream in;
-    stringstream post;
+    stringstream post; 
     void PreOrder(TreeNode *p) {
         if (p) {
             pre << p->data << ' ';
